@@ -1,1 +1,3 @@
 # git_test
+I am trying to learn a new skill on top of my job as a flooring installer. I would like to see if I can learn something new and completely different to what I do on a regular basis. If this is something I can persevere then I know that I have it in me to learn something new and to not be afraid of new things that come my way and enjoy the process of what I'm trying to achieve. Whether it is something small or as big as learning how to code from home. For now, I will enjoy the journey and see where this takes me.
+Hello Odin!
